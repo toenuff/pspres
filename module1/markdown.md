@@ -18,7 +18,7 @@ class: center, middle
 
 # Code slide
 
-```
+```powershell
 # blah
 $commands = get-command
 foreach ($command in $commands) {
